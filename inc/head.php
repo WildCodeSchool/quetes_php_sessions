@@ -26,7 +26,7 @@
           <img class="pull-left" src="assets/img/cookie_funny_clipart.png" alt="The Cookies Factory logo">
           <h1>The Cookies Factory</h1>
         </a>
-        <p class="hidden-xs navbar-text">Hello Wilder, looking for the bests cookies on earth ?</p>
+        <p class="hidden-xs navbar-text">Hello Wilder !</p>
       </div>
 
       <!-- Collect the nav links, forms, and other content for toggling -->
