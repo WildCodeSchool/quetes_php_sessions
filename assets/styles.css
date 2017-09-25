@@ -1,6 +1,5 @@
 body {
-    padding-top:50px;
-
+    padding-top:70px;
 }
 
 h1, h2, h3, h4,
@@ -8,14 +7,33 @@ strong {
   font-family: 'Kaushan Script', cursive;
 }
 
+.navbar-brand{
+    padding: 5px 15px;
+}
+.navbar-brand img{
+  height: 40px;
+}
+
+.navbar-brand h1 {
+    font-size: 1.7rem;
+    margin: 2% auto;
+}
+
+.navbar-right{
+  padding-right: 1%;
+}
+.navbar-default .navbar-nav>li>a {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
 .cookies {
     margin-top:1em;
 }
 
-.navbar{
-  min-height: 110px;
+section.cookies{
+  min-height: 90vH;
 }
-
 /* Source : https://bootsnipp.com/snippets/featured/sign-in-panel */
 .panel-heading {
     padding: 5px 15px;
@@ -34,4 +52,20 @@ strong {
 	-moz-border-radius: 50%;
 	-webkit-border-radius: 50%;
 	border-radius: 50%;
+}
+
+@media screen and ( min-width:768px ){
+
+  body {
+      padding-top:120px;
+  }
+
+  .navbar-brand h1 {
+      font-size: 2.3rem;
+      margin: 4% auto;
+  }
+
+  .navbar-brand img {
+    height: 60px;
+  }
 }

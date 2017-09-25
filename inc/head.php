@@ -26,7 +26,6 @@
           <img class="pull-left" src="assets/img/cookie_funny_clipart.png" alt="The Cookies Factory logo">
           <h1>The Cookies Factory</h1>
         </a>
-        <p class="hidden-xs navbar-text">Hello Wilder !</p>
       </div>
 
       <!-- Collect the nav links, forms, and other content for toggling -->
@@ -34,10 +33,9 @@
         <ul class="nav navbar-nav navbar-right">
           <li><a href="#">Chocolates chips</a></li>
           <li><a href="#">Nuts</a></li>
-          <li><a href="#">Candies</a></li>
           <li><a href="#">Gluten full</a></li>
           <li>
-            <a href="cart.php" class="btn btn-warning navbar-btn">
+            <a href="/cart.php" class="btn btn-warning navbar-btn">
               <span class="glyphicon glyphicon-shopping-cart" aria-hidden="true"></span>
               Cart
             </a>
@@ -46,4 +44,7 @@
       </div><!-- /.navbar-collapse -->
     </div><!-- /.container-fluid -->
   </nav>
+  <div class="container-fluid text-right">
+    <strong>Hello Wilder !</strong>
+  </div>
 </header>
