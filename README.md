@@ -1,4 +1,4 @@
-sélectionnés# Template pour : Quetes  PHP Cookies & Sessions
+sélectionnés# Template pour : Quêtes  PHP Cookies & Sessions
 
 Ce Template html va te permettre de réaliser ta quête sur la gestion des cookies et des sessions avec PHP.
 

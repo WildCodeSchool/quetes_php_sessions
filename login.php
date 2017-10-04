@@ -40,4 +40,4 @@
   </div>
 </div>
 </div>
-<?php require 'inc/foot.php' ?>
+<?php require 'inc/foot.php'; ?>
