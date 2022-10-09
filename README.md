@@ -4,7 +4,6 @@ Ce Template html va te permettre de réaliser ta quête sur la gestion des cooki
 
 Sont inclus :
 
-* la page de connexion,
 * la page des produits disponibles à l'achat,
 * la page panier, affichant à partir de la session les produits sélectionnés par l'utilisateur.
 
