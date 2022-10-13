@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>The Cookie Factory</title>
+    <title>The Cake Factory</title>
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
           integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -27,7 +27,7 @@
                 </button>
                 <a class="navbar-brand" href="/">
                     <img class="pull-left" src="assets/img/cookie_funny_clipart.png" alt="The Cookies Factory logo">
-                    <h1>The Cookies Factory</h1>
+                    <h1>The Cake Factory</h1>
                 </a>
             </div>
 
