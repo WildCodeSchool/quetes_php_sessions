@@ -2,19 +2,19 @@
 
 $catalog = [
     46 => [
-        'name' => 'Pecan nuts',
+        'name' => 'Full chocolate cake',
         'description' => 'Cooked by Penny !',
     ],
     36 => [
-        'name' => 'Chocolate chips',
+        'name' => 'Macaroon and cream cake',
         'description' => 'Cooked by Bernadette !',
     ],
     58 => [
-        'name' => 'Full chocolate cookie',
+        'name' => 'Vanilla and chocolate cake',
         'description' => 'Cooked by Bernadette !',
     ],
     32 => [
-        'name' => 'M&M\'s&copy; cookies',
+        'name' => 'Vanilla and fruits cake',
         'description' => 'Cooked by Penny !',
     ],
 ];
